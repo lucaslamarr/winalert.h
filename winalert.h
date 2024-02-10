@@ -1,5 +1,5 @@
-#ifndef WINLOG_H
-#define WINLOG_H
+#ifndef WINALERT_H
+#define WINALERT_H
 
 /* Choose between three types of messages that will be used for showing severity in debug messages. */
 typedef enum
