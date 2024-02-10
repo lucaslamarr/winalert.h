@@ -1,7 +1,7 @@
 #ifndef WINALERT_H
 #define WINALERT_H
 
-/* Choose between three types of messages that will be used for showing severity in debug messages. */
+/* Choose between different message types that will be used for determining what type of alert box to show. */
 typedef enum
 {
 	MESSAGE, 
